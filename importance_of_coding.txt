@@ -1,2 +1,2 @@
 Coding is essential for automating security tasks.
-Python is a favorite in cybersecurity for building automated scanners and scrapers.
+Python is a favorite in cybersecurity due to its simplicity.
