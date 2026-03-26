@@ -1,1 +1,2 @@
 Networking is the backbone of cybersecurity.
+Understanding how data packets move through a network is critical for identifying suspicious traffic.
